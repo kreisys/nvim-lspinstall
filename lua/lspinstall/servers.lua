@@ -23,6 +23,7 @@ local servers = {
   ["kotlin"] = require'lspinstall/servers/kotlin',
   ["latex"] = require'lspinstall/servers/latex',
   ["lua"] = require'lspinstall/servers/lua',
+  ["nix"] = require'lspinstall/servers/nix',
   ["php"] = require'lspinstall/servers/php',
   ["puppet"] = require'lspinstall/servers/puppet',
   ["purescript"] = require'lspinstall/servers/purescript',
